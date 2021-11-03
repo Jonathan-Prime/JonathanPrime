@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **HR Solutions**
 
-- 🌱 I’m currently learning **React, Node JS.**
+- 🌱 I’m currently learning **Vue, React, Node JS.**
 
 - 👯 I’m looking to collaborate on **Interactive HR**
 
